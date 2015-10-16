@@ -28,23 +28,4 @@ added offlinde
 
 
 
-I have online
-
-<<<<<<< HEAD
-added offline 2
-a
-a
-a
-a
-a
-=======
-added online 2
-b
-b
-b
-b
-b
->>>>>>> ecc249cc5d5b2426bb992b2074fbd55b7b9e3873
-
-
 
