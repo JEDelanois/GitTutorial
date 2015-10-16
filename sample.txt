@@ -3,3 +3,9 @@ text 2
 
 push withougt commit 
 
+
+
+
+I added some stuff here before the update
+
+
